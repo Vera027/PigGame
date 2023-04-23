@@ -3,4 +3,4 @@ A game that two players can play by rolling the dice. If the current score is bi
 <pre>
 </pre>
 <img src="pig-game-flowchart.png">
-[Web demo for PigGame](https://vera027.github.io/PigGame/)
+[Web demo for PigGame][https://vera027.github.io/PigGame/]
